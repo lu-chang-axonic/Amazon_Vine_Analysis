@@ -26,4 +26,4 @@ There are 222 5 star Vine reviews and 30,543 5 star non-Vine reviews.
 For Vine reviews, 36.2% are 5 star reviews. For non-Vine reviews, 47.0% are 5 star reviews. 
 
 ## Summary
-In my analysis, I do not see any positivity bias for reviews in the Vine program, as the percentage of 5 star reviews was actually lower in the Vine program. To further analyze this, one should look into other level review in terms of a distribution. A statistical analysis should be conducted to see if there is a significant difference in between,
+In my analysis, I do not see any positivity bias for reviews in the Vine program, as the percentage of 5 star reviews was actually lower in the Vine program. To further analyze this, one should look into other level review in terms of a distribution, as 4 or 3 star could also be deemed as being positive. A statistical analysis should be conducted to see if there is a significant difference in between,
