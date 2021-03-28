@@ -11,15 +11,15 @@ The purpose of this analysis is to see if there is a bias between Vine and non-V
 
 There are 613 Vine reviews and 64,968 non-Vine reviews.
 
-![](https://github.com/lu-chang-axonic/surfs_up/blob/main/June%20Temprature.PNG)
-![](https://github.com/lu-chang-axonic/surfs_up/blob/main/June%20Temprature.PNG)
+![](https://github.com/lu-chang-axonic/Amazon_Vine_Analysis/blob/main/total%20Vine.PNG)
+![](https://github.com/lu-chang-axonic/Amazon_Vine_Analysis/blob/main/Total_non_vine.PNG)
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 There are 222 5 star Vine reviews and 30,543 5 star non-Vine reviews. 
 
-![](https://github.com/lu-chang-axonic/surfs_up/blob/main/June%20Temprature.PNG)
-![](https://github.com/lu-chang-axonic/surfs_up/blob/main/June%20Temprature.PNG)
+![](https://github.com/lu-chang-axonic/Amazon_Vine_Analysis/blob/main/total_Vine_5.PNG)
+![](https://github.com/lu-chang-axonic/Amazon_Vine_Analysis/blob/main/Total_non_vine_5.PNG)
 
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
